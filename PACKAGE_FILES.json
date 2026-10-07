@@ -1,0 +1,33 @@
+{
+  "target_repository": "VISjudy/academic-logical-writing-skills",
+  "purpose": "Initial migration snapshot. Later reviewed changes are tracked in Git and CHANGELOG; this is not a claim of user-machine loading.",
+  "files_sha256": {
+    ".gitignore": "9aa5c82f9f5a6d9bc3bbad6e6416dd4226c017e7c3c201ad49bf1c67ed017042",
+    "AGENTS.md": "e557aeed897de2556d54327a478a55711a685221bac8e1bd75b1043bdea685cf",
+    "CHANGELOG.md": "dcd6582fb66c5b8b3eecd1bb2ee11a53dd197075a1a2d38fff87be590698969a",
+    "CONTRIBUTING.md": "1a0a14d8053fb9147b5bc748366948820cb97a2ec42d3683c33049ea67873e74",
+    "MIGRATION.json": "185ffd5c85f006a4df404cddd9554de0cc506f8f2987fd0b223c980f68a2047f",
+    "PUBLISH.md": "c33eae7511b4ad9749ef2039c93a6c05758d0fb2d8a62e8d1d2d1e3884aaa0c2",
+    "README.md": "02979e44fd080eafea0e5f24d19f96d561ed617924e7835778e4cd20d81d5cf3",
+    "scripts/publish_github.py": "09e50073ab3f9ac2fe29a02bcef986c78ceee4e535152ade434a3a14f7e90858",
+    "scripts/validate_all.py": "a11ec9339c33fadad1756de572c685696e421bd0ec5a2a322d6d23ae4d3992e0",
+    "skills/proposal-logic-review/CHANGELOG.md": "169dbe32d50797975f0144b01399df0140c9000b9539e3b64c310a699267a4e8",
+    "skills/proposal-logic-review/README.md": "cf995f84050eb83e03fde36a3f3419236f2b64f342baea3af8d11c30edeafd14",
+    "skills/proposal-logic-review/SKILL.md": "004fcf38c3316f1a1f5e27c956e3642c7cd8d9b7dc5415aaac3ed217f629c7a4",
+    "skills/proposal-logic-review/agents/openai.yaml": "2883fc272cccaa3f03c12177609be55a294d2c814141df7c06e07c850b55a098",
+    "skills/proposal-logic-review/evals/behavior-tests.md": "1b05c942537fe7c41a6946ab6c23866a7e416031e4f1b0fea788da81a78964eb",
+    "skills/proposal-logic-review/examples/approved-excerpts.md": "804d207b57f11fe66fbeacc385e3df5bcc909c675dded4159a79885736231e3a",
+    "skills/proposal-logic-review/references/review-protocol.md": "d8e0cdc9bb3311739952e0cf312bdbbe05af8da325670ef6a198146d36668f0a",
+    "skills/proposal-logic-review/references/source-ledger.md": "753bb9942f46b06ffcfb8baeb5bb4bbe6a86b73abbe65dddda3032d4759039da",
+    "skills/proposal-logic-review/references/urban-3dgs-case.md": "2e2968dd2c8f3df9d60fc976088cb278955363757d25bd8996357f41520bb268",
+    "skills/proposal-logic-review/references/writing-playbook.md": "1cb2f39467924dabf5c0a76fbf11834c4362d47888b6645e206120336969ed07",
+    "skills/proposal-logic-review/scripts/install_local.py": "9c6367ea32dd467be8ee0fbe08acc2bc86118266b16af605fd67d514b2a1aca5",
+    "skills/proposal-logic-review/scripts/validate_package.py": "c4220b7d46685c71b29d5b0541be7cb67c491b9e1411cd60406301a80f211c7c",
+    "skills/proposal-logic-review/sources.json": "6547afd03d19b73252e96be191f55c9d278738b2312b7ee3e3f586db0de2c158",
+    "skills/proposal-logic-review/templates/argument-workbook.md": "3b6a18aeb46943bd80e4323c2a2bae406ae0ab07856b77e8f78c5534a3bdef48",
+    "skills/proposal-logic-review/templates/blind-review-brief.md": "ae6449893117c84a985f08c0de9e8240921e968bda32105b180226f6f3cdefd9",
+    "skills/proposal-logic-review/templates/review-report.md": "ad07766b898c55b66a9128ecbbe685b9e8992d6c002dd744e1667dd8b410a01f",
+    "skills/proposal-logic-review/templates/two-page-proposal.md": "c20325c19942da37c8d773c84b5a1989b428bf146add43081711a4fe4e4a25f7",
+    "skills/proposal-logic-review/validation_report.json": "725ad3de306806a117cb31254def6f685c80aa8c73230684c7110cf05dfad851"
+  }
+}

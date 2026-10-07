@@ -1,0 +1,37 @@
+{
+  "status": "canonical_repository_snapshot",
+  "target_repository": "VISjudy/academic-logical-writing-skills",
+  "target_path": "skills/proposal-logic-review",
+  "source_repository": "VISjudy/3dgs-paper-workbench",
+  "source_ref": "cc1043fabee51898a7af764d78cf4efc6818d7ef",
+  "source_branch": "add-proposal-logic-review",
+  "source_pr": 1,
+  "source_modified": false,
+  "core_content_changed": false,
+  "modified_skill_files": [
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "preserved_skill_files_git_blob_sha1": {
+    "SKILL.md": "8be59784159913906df6657ee4ca14f06bae39ab",
+    "evals/behavior-tests.md": "8305a17a12cb90f7de076cc1fb1fdd4e215d0e93",
+    "examples/approved-excerpts.md": "0ed44ce449dbdadbca78d1db959f05498095a612",
+    "references/review-protocol.md": "1f6c1c4dc12ab6639d0202e9e66a0db29ca0552e",
+    "references/source-ledger.md": "82f738db5abb1d3149e29f4a0cc9dee7182f7712",
+    "references/urban-3dgs-case.md": "01212e7c9483837931146b79c19e2ca0a36692a4",
+    "references/writing-playbook.md": "88184e8c2422ca373d9b90030ff7236e40d12ab0",
+    "scripts/validate_package.py": "bcd54ca1bf370a3b9b9bab0730ed8d501cc83869",
+    "sources.json": "94f8eda3f41e04e3d45da940e1dc6c37011b86e4",
+    "templates/argument-workbook.md": "bbf87e30743ca36f574ef11702a0883cae56c4fa",
+    "templates/blind-review-brief.md": "40246b9a812614e0a557bf90a780f9821c6ff1f3",
+    "templates/review-report.md": "6f1fa391a8ce8881d9f3959992c1be6195555e38",
+    "templates/two-page-proposal.md": "052300e1123edd6d1df675f34209a2578f229540",
+    "validation_report.json": "044dd7308e210fe281c97894914ebf7ca8ee5769",
+    "scripts/install_local.py": "0ec380c8c14b27074ed7f18d1f9acbec138a7ae8",
+    "agents/openai.yaml": "553d39b15422d70fed422ae1aeaad1bc33c4ac8a"
+  },
+  "scope_note": "Distribution migration only. Core skill content is preserved; installation links and repository maintenance files are adapted. No original CV, application files, personal demo videos, or credentials are included. Scientific references are archived examples, not re-researched.",
+  "repository_created_by": "user",
+  "source_package": "Academic_Writing_Skills_Standalone_Repo.zip",
+  "source_package_sha256": "42732d855e2acbe7e3d75e2b36396c9c9cd21221218303efcecd7c2542b8b900"
+}

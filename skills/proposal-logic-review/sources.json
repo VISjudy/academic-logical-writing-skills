@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    {
+      "language": "CN",
+      "filename": "Hongsheng_Huang_Proposal_2027_Updated_CN.docx",
+      "sha256": "f2536eb9732b952006224aeccc8d47f46bf73c6d2a8a21ae613fd7827e95a1b0",
+      "size_bytes": 45301,
+      "role": "当前用户确认版本，写作风格与结构提炼依据"
+    },
+    {
+      "language": "EN",
+      "filename": "Hongsheng_Huang_Proposal_2027_Updated_EN.docx",
+      "sha256": "8b502eb342780b78b6b7c3a79f6d6c9217737e50ad26964fa307e0d5920254d0",
+      "size_bytes": 44717,
+      "role": "当前用户确认版本，写作风格与结构提炼依据"
+    }
+  ],
+  "external_verification": "not_performed_for_this_style_extraction"
+}

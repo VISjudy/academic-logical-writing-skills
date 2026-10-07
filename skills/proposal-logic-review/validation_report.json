@@ -1,0 +1,11 @@
+{
+  "scope": "local_package_structure_only",
+  "status": "PASS",
+  "markdown_files_checked": 13,
+  "local_links_checked": 10,
+  "errors": [],
+  "warnings": [],
+  "model_behavior_tests": "NOT_RUN",
+  "scientific_claim_verification": "NOT_PERFORMED",
+  "host_installation": "NOT_PERFORMED"
+}
