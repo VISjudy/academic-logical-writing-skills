@@ -1,0 +1,6 @@
+interface:
+  display_name: "Proposal 写作与逻辑审查"
+  short_description: "研究计划书写作、导师式追问与逻辑审查，检查目标、问题、方法和验证是否对应"
+  default_prompt: "使用 $proposal-logic-review 审查我的研究计划书。先用一句话解释每个部分到下一部分的连接，再指出最多三个关键逻辑断点；主线确认后才改写全文。"
+policy:
+  allow_implicit_invocation: true
